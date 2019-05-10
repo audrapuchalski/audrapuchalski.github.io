@@ -68,7 +68,7 @@ a:hover {
 }
 
 .bioTitle{
-  display: none;
+  display: block;
 }
 
 .contact{
