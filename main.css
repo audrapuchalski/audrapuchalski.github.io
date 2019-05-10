@@ -43,8 +43,9 @@ h4{
   padding: 3em 8em;
   animation: fadein 2s;
   position: relative;
-  width: 50vw;
+  width: 30vw;
   z-index: 0;
+  float: left;
 }
 
 
@@ -61,8 +62,8 @@ a:hover {
 .bio{
   padding: 1.8em 0em 3em 2em;
   float: right;
-  text-align: justify;
-  width: 50vw;
+  text-align: left;
+  width: 70vw;
   z-index: 99999;
   position: relative;
 }
