@@ -61,13 +61,13 @@ a:hover {
   padding: 1.8em 0em 3em 2em;
   float: right;
   text-align: justify;
-  width: 70vw;
+  width: 30vw;
   z-index: 99999;
   position: relative;
 }
 
 .bioTitle{
-  display: block;
+  display: none;
 }
 
 .contact{
