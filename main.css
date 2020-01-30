@@ -9,7 +9,7 @@ html{
 body{
   max-width: 800px;
   margin: auto;
-  font-family: 'Source+Sans+Pro';
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
   color: #111;
   background-color: #eee;
@@ -18,11 +18,11 @@ body{
 }
 
 h1{
-  font-family: 'Cedarville+Cursive';
+  font-family: 'Cedarville Cursive', cursive;
 }
 
 h2, h3{
-  font-family: 'Source+Sans+Pro';
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 h1{
