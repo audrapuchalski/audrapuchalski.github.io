@@ -18,7 +18,9 @@ body{
 }
 
 h1{
-  font-family: 'Cedarville Cursive', cursive;
+  font-family: rollerscript-rough, sans-serif;
+  font-style: normal;
+  font-weight: 400;
 }
 
 h2, h3{
@@ -27,8 +29,7 @@ h2, h3{
 
 h1{
   
-  font-weight: 900; 
-  font-size: 3em;
+
   text-align: center;
   color: #333;
   padding: 0em;
