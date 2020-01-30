@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:700');
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 
 html{
@@ -9,15 +9,19 @@ html{
 body{
   max-width: 800px;
   margin: auto;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Source+Sans+Pro', sans-serif;
   font-size: 16px;
   color: #111;
   background-color: #eee;
   
 }
 
-h1, h2, h3{
-  font-family: 'Open Sans', sans-serif;
+h1{
+  font-family: 'Cedarville+Cursive', sans-serif;
+}
+
+h2, h3{
+  font-family: 'Source+Sans+Pro', sans-serif;
 }
 
 h1{
