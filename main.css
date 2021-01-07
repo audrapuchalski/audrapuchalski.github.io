@@ -210,8 +210,6 @@ div.desc {
   overflow: hidden;
   background-color: #ffffff;
   display: block;
-  width: 100%;
-  height: 35px;
 
 }
 
@@ -235,6 +233,4 @@ div.desc {
   color: white;
 }
 
-.topnav .icon {
-  display: none;
-}
+
