@@ -1,0 +1,129 @@
+<!--
+Here is a template for the site if you want to try and write the page yourself. I have tried to add in comments to help you fill in the details. Message me on twitter or email if you have any questions.
+
+The content of the webpape is controlled by the index.html file. The changes you make to this will change the writing you see on the page.
+
+All the design of the page (font, colours etc.) is controlled by the main.css file. You are welcome to customise this anyway you like.
+
+You can open this html file using your browser. If you make a change to this or the main.css and save it, you can then see the change by refreshing your browser.
+ --> 
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<!--
+Commenting this out because I'm ready to let Google find my page now! phew  
+<meta name="robots" content="noindex">  -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" type="text/css" href="main.css" />
+<link rel="stylesheet" type="text/css" href="colour.css" />
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+<!--
+Enter your name here, this is what appears in the tab label on a browser.
+ -->
+<title>Audra Puchalski</title>
+</head>
+
+<body>
+
+
+<!--
+This is your name that appears at the top of the webpage  
+ -->
+<h1 class="name">Audra Puchalski</h1> 
+
+
+<!--
+Here's where we will fill in all your work.
+The h3 and h4 are your headers. These help split the links into categories.
+The <a ... part is a link.
+
+Replace the google link with the link to your Work
+Replace "Work Title [Journal]" with whatever you like.
+
+The <br> is a line break. This makes sure each link is on a new line.
+ -->
+ 
+<h3>Publications</h3>
+ 
+
+<h4>Books and Zines</h4>
+ 
+<ul>
+  <li><i>Queer Hagiographies</i>, Headmistress Press 2020
+    <ul>
+      <li><a href="http://tiny.cc/queersaints">Buy direct from me</a></li>
+      <li><a href="https://headmistress-press.square.site/product/queer-hagiographies-by-audra-puchalski/75">Order from Headmistress Press</a></li>
+    </ul>
+  </li>
+  <li><a href="http://tiny.cc/audrazines">Zines</a>
+  <ul>
+      <li>The Hungry (2020)</li>
+      <li>My Crimes (2019)</li>
+      <li>Queer Hagiographies (2018)</li>
+      <li>Heart Science (2017)</li>
+    </ul>
+  </li>
+</ul>
+ 
+ 
+<h4>Print Journals</h4>
+
+<ul>
+<li><a href="https://twitter.com/audrapuchalski/status/1112765923813777408" target="_blank">Saint Isidore</a> [<a href="http://www.batcityreview.org/issue-15" target="_blank">Bat City Review</a>]</li>
+<li><a href="https://twitter.com/audrapuchalski/status/1174435773052964864" target="_blank">Saint Lawrence; Saint Alban</a> [<a href="http://www.juked.com/print/16/" target="_blank">Juked #16</a>]</li>
+<li><a href="https://twitter.com/audrapuchalski/status/1312139194093821954" target="_blank">Virgin Feelings</a> [<a href="https://salthilljournal.net/salt-hill-4344" target="_blank">Salt Hill 43/44</a>]</li>
+</ul>
+
+<h4>Online Journals</h4>
+<ul>
+<li><a href="http://www.cutbankonline.org/all-accounts/2019/11/all-accounts-and-mixture-poems-by-audra-puchalski" target="_blank">5 Poems [Cutbank Online: All Accounts and Mixture]</a></li>
+<li><a href="https://www.cottonxenomorph.com/journal/2019/9/15/saint-ignatius" target="_blank">Saint Ignatius [Cotton Xenomorph]</a></li>
+<li><a href="https://cosmonautsavenue.com/audra-puchalski-poetry/" target="_blank">Hello! I Am Insatiable for Permission [Cosmonauts Avenue]</a></li>
+<li><a href="https://themuseumofamericana.net/two-poems-by-audra-puchalski/" target="_blank">2 Poems [The Museum of Americana]</a></li>
+<li><a href="https://reservoirlit.com/puchalski" target="_blank">Saint Hilda [Reservoir]</a></li>
+<li><a href="http://www.jokesliteraryreview.com/3-poems-audra-puchalski" target="_blank">3 Poems [Jokes Review]</a></li>
+<li><a href="https://superstitionreview.asu.edu/issue21/poetry/audrapuchalski" target="_blank">4 Poems [Superstition Review]</a></li>
+<li><a href="https://susanthejournal.tumblr.com/post/173328021554/audra-puchalski-01" target="_blank">3 Poems [SUSAN / The Journal]</a></li>
+<li><a href="http://www.parenthesesjournal.com/issue-03/superbloom-audra-puchalski/" target="_blank">Superbloom [Parentheses Journal]</a></li>
+</ul>
+
+
+
+<h3>About</h3>
+
+
+Audra is a poet living in Oakland, California. <br><br>
+ 
+ <div><img src="https://raw.githubusercontent.com/audrapuchalski/audrapuchalski.github.io/master/IMG_6153.JPG" width=100%></div><br><br>
+                           
+
+<!--
+This is the section with the contact and the social buttons. Edit it however you want.
+ -->
+<div class="contact">
+<h3>Contact</h3>
+
+<!--
+To link to a direct email then include "mailto:youremail@example.com"
+
+To link to a site add the URL in between the "" for the 'href=""'
+ -->
+<a href="mailto:audrapuchalski-[(at)]-gmail.com"><i class="fas fa-envelope"></i></a>
+<a href="https://twitter.com/audrapuchalski" target="_blank"><i class="fab fa-twitter"></i></a>
+
+<!--
+If you have more social media or contact links you can keep adding them.
+The icons I'm using are the fontawesome ones.
+You can find all the icons avaliable by going to fontawesome.com
+
+
+-->
+
+
+
+</body>
+</html>
