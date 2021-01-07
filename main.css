@@ -210,15 +210,15 @@ div.desc {
   overflow: hidden;
   background-color: #ffffff;
   display: block;
+  padding: 8px 25px;
 
 }
 
 .topnav a {
-  float: left;
   text-align: center;
-  padding: 8px 25px;
   text-decoration: none;
   font-size: 17px;
+  padding: 8px 25px;
 }
 
 .topnav a:hover {
