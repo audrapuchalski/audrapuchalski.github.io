@@ -208,13 +208,13 @@ div.desc {
 
 .topnav {
   overflow: hidden;
-  background-color: #ffffff;
   display: block;
   padding: 8px 25px;
 
 }
 
 .topnav a {
+  color:white;
   text-align: center;
   text-decoration: none;
   font-size: 17px;
@@ -222,13 +222,12 @@ div.desc {
 }
 
 .topnav a:hover {
-  background-color: #999;
-  color: white;
+  background-color: white;
 }
 
 .topnav a.active {
-  background-color: #009999;
-  color: white;
+  background-color: white;
+
 }
 
 
