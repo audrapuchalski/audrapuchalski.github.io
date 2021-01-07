@@ -207,7 +207,7 @@ div.desc {
 
 
 .topnav {
-  overflow: auto;
+  overflow: hidden;
   background-color: #ffffff;
   width: 100%;
 
